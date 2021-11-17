@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1434820888 source:c:\users\héctoraugusto\desktop\universidad\programación de computadores\programas\ahorcados\main.cpp
+	<iostream>
+	<cstdlib>
+	<fstream>
+	<time.h>
+	<conio.h>
+	<windows.h>
+
+1442755181 source:c:\users\héctoraugusto\desktop\universidad\primer semestre\programación de computadores\programas\ahorcados\main.cpp
+	<iostream>
+	<cstdlib>
+	<fstream>
+	<time.h>
+	<conio.h>
+	<windows.h>
+
+1450047103 source:c:\users\héctoraugusto\onedrive\nueva carpeta\universidad\primer semestre\programación de computadores\programas\ahorcados\main.cpp
+	<iostream>
+	<cstdlib>
+	<fstream>
+	<time.h>
+	<conio.h>
+	<windows.h>
+
